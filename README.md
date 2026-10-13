@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Мой стек
+### Мой стек
 
 Языки программирования
 <div><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></div>
@@ -35,4 +35,8 @@ UI и дизайн
 
 ## Связаться со мной
 
-<div><a href="https://t.me/ispolatov"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a><a href="mailto:u281094@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a></div>
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ispolatov)
+<details>
+<summary>Email</summary>
+u281094@gmail.com
+</details>
